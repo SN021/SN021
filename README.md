@@ -1,3 +1,4 @@
+[![MasterHead](https://drive.google.com/file/d/1SdTinJEtLFC26IpLdzXb7rs5cHIXY1tu/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Sanduni Navodya</h1>
 <h3 align="center">"Aspiring Software Engineer | Transforming Ideas into Reality"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
