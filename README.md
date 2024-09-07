@@ -1,4 +1,4 @@
-[![MasterHead]
+![MasterHead](https://github.com/user-attachments/assets/af16326e-7b15-4e4e-a68d-6b32cd1c2688)
 <h1 align="center">Hi 👋, I'm Sanduni Navodya</h1>
 <h3 align="center">"Aspiring Software Engineer | Transforming Ideas into Reality"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
