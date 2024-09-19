@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://1drv.ms/b/c/094be82dcda111d4/Edyi58qlpV1IpVrk5MRlAZABmsdGK7RMatAczL5xSKquug?e=Eb9Wgz](https://1drv.ms/b/c/094be82dcda111d4/Edyi58qlpV1IpVrk5MRlAZABmsdGK7RMatAczL5xSKquug?e=Eb9Wgz)
 
-- ⚡ Hobby **Playing Video Games**
+- 🎮⚡Enjoy playing video games in my free time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
