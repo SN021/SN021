@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sanduni.navodya021@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/094be82dcda111d4/Edyi58qlpV1IpVrk5MRlAZABmsdGK7RMatAczL5xSKquug?e=Eb9Wgz](https://1drv.ms/b/c/094be82dcda111d4/Edyi58qlpV1IpVrk5MRlAZABmsdGK7RMatAczL5xSKquug?e=Eb9Wgz)
+- 📄 Know about my experiences https://sanduninavodya.vercel.app/
 
 - 🎮⚡Enjoy playing video games in my free time
 
