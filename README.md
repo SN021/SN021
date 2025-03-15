@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sn021&label=Profile%20views&color=0e75b6&style=flat" alt="sn021" /> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, Machine Learning, Artificial Intelligence **
+- 🌱 I’m currently learning **MEARN Stack **
 
 - 📫 How to reach me **sanduni.navodya021@gmail.com**
 
